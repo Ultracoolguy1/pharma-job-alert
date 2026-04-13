@@ -1,0 +1,35 @@
+name: 제약 채용공고 알리미
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 한국시간 오후 2시 (UTC+9)
+  workflow_dispatch:  # 수동 실행 버튼
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v3
+
+      - name: Python 설치
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 라이브러리 설치
+        run: pip install requests beautifulsoup4
+
+      - name: 채용공고 수집 실행
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python scraper.py
+
+      - name: seen_jobs.json 저장
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add seen_jobs.json
+          git diff --staged --quiet || git commit -m "seen_jobs 업데이트"
+          git push
