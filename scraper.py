@@ -1,11 +1,19 @@
 import requests
 import json
 import os
+import time
 from datetime import datetime
+from bs4 import BeautifulSoup
 from companies import COMPANIES, KEYWORDS
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 SEEN_JOBS_FILE = "seen_jobs.json"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept-Language": "ko-KR,ko;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
 def load_seen_jobs():
     if os.path.exists(SEEN_JOBS_FILE):
@@ -18,79 +26,80 @@ def save_seen_jobs(seen_jobs):
         json.dump(list(seen_jobs), f)
 
 def search_saramin(company, keyword):
-    """사람인 RSS로 공고 검색"""
     results = []
     try:
         query = f"{company} {keyword}"
-        url = f"https://www.saramin.co.kr/zf_user/rss/job?searchword={requests.utils.quote(query)}"
-        headers = {"User-Agent": "Mozilla/5.0"}
-        response = requests.get(url, headers=headers, timeout=10)
+        url = f"https://www.saramin.co.kr/zf_user/search/recruit?searchword={requests.utils.quote(query)}&recruitPage=1"
+        response = requests.get(url, headers=HEADERS, timeout=10)
         
         if response.status_code == 200:
-            import xml.etree.ElementTree as ET
-            root = ET.fromstring(response.content)
-            for item in root.findall(".//item"):
-                title = item.findtext("title", "").strip()
-                link = item.findtext("link", "").strip()
-                pub_date = item.findtext("pubDate", "").strip()
-                company_name = item.findtext("company", title).strip()
+            soup = BeautifulSoup(response.text, "html.parser")
+            job_items = soup.select(".item_recruit")
+            
+            for item in job_items:
+                title_el = item.select_one(".job_tit a")
+                company_el = item.select_one(".corp_name a")
                 
-                # 기업명 + 키워드 둘 다 포함 확인
-                if any(c in title or c in company_name for c in [company]):
+                if not title_el or not company_el:
+                    continue
+                
+                title = title_el.get_text(strip=True)
+                company_name = company_el.get_text(strip=True)
+                link = "https://www.saramin.co.kr" + title_el.get("href", "")
+                
+                # 회사명 일치 확인
+                if company in company_name or company_name in company:
                     job_id = f"saramin_{link}"
                     results.append({
                         "id": job_id,
                         "title": title,
                         "company": company_name,
                         "link": link,
-                        "date": pub_date,
                         "platform": "사람인"
                     })
     except Exception as e:
-        print(f"사람인 검색 오류 ({company} / {keyword}): {e}")
+        print(f"사람인 오류 ({company}/{keyword}): {e}")
     return results
 
 def search_jobkorea(company, keyword):
-    """잡코리아 스크래핑으로 공고 검색"""
     results = []
     try:
         query = f"{company} {keyword}"
         url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(query)}&tabType=recruit"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=HEADERS, timeout=10)
         
         if response.status_code == 200:
-            from bs4 import BeautifulSoup
             soup = BeautifulSoup(response.text, "html.parser")
-            job_items = soup.select(".recruit-info")
+            job_items = soup.select(".list-post")
             
             for item in job_items:
                 title_el = item.select_one(".title")
+                company_el = item.select_one(".name")
                 link_el = item.select_one("a")
-                company_el = item.select_one(".corp-name")
                 
-                if title_el and link_el:
-                    title = title_el.get_text(strip=True)
-                    link = "https://www.jobkorea.co.kr" + link_el.get("href", "")
-                    company_name = company_el.get_text(strip=True) if company_el else company
+                if not title_el or not company_el:
+                    continue
+                
+                title = title_el.get_text(strip=True)
+                company_name = company_el.get_text(strip=True)
+                href = link_el.get("href", "") if link_el else ""
+                link = f"https://www.jobkorea.co.kr{href}" if href.startswith("/") else href
+
+                # 회사명 일치 확인
+                if company in company_name or company_name in company:
                     job_id = f"jobkorea_{link}"
-                    
                     results.append({
                         "id": job_id,
                         "title": title,
                         "company": company_name,
                         "link": link,
-                        "date": datetime.now().strftime("%Y-%m-%d"),
                         "platform": "잡코리아"
                     })
     except Exception as e:
-        print(f"잡코리아 검색 오류 ({company} / {keyword}): {e}")
+        print(f"잡코리아 오류 ({company}/{keyword}): {e}")
     return results
 
 def send_slack(new_jobs):
-    """슬랙으로 새 공고 전송"""
     if not new_jobs:
         print("새 공고 없음")
         return
@@ -105,36 +114,39 @@ def send_slack(new_jobs):
     
     payload = {"text": text}
     response = requests.post(SLACK_WEBHOOK_URL, json=payload)
-    print(f"슬랙 전송 완료: {response.status_code}")
+    print(f"슬랙 전송: {response.status_code}")
 
 def main():
-    print(f"[{datetime.now()}] 채용공고 수집 시작")
+    print(f"[{datetime.now()}] 수집 시작")
     seen_jobs = load_seen_jobs()
-    new_jobs = []
     all_jobs = []
+    seen_ids = set()
+    new_jobs = []
 
     for company in COMPANIES:
         for keyword in KEYWORDS:
-            saramin_jobs = search_saramin(company, keyword)
-            jobkorea_jobs = search_jobkorea(company, keyword)
-            all_jobs.extend(saramin_jobs + jobkorea_jobs)
+            print(f"검색: {company} / {keyword}")
+            saramin = search_saramin(company, keyword)
+            jobkorea = search_jobkorea(company, keyword)
+            all_jobs.extend(saramin + jobkorea)
+            time.sleep(0.5)  # 너무 빠르게 요청 안 보내도록
 
-    # 중복 제거 및 새 공고 필터링
-    seen_ids = set()
+    # 중복 제거 (플랫폼 간 포함)
+    seen_titles = {}
     for job in all_jobs:
         job_id = job["id"]
-        if job_id not in seen_jobs and job_id not in seen_ids:
+        title_key = f"{job['company']}_{job['title']}"
+        
+        if job_id not in seen_jobs and title_key not in seen_titles:
             new_jobs.append(job)
             seen_ids.add(job_id)
+            seen_titles[title_key] = True
 
-    print(f"새 공고 {len(new_jobs)}건 발견")
-    
-    # 슬랙 전송 (20개씩 나눠서)
-    chunk_size = 20
-    for i in range(0, len(new_jobs), chunk_size):
-        send_slack(new_jobs[i:i+chunk_size])
+    print(f"새 공고 {len(new_jobs)}건")
 
-    # seen_jobs 업데이트
+    for i in range(0, len(new_jobs), 20):
+        send_slack(new_jobs[i:i+20])
+
     seen_jobs.update(seen_ids)
     save_seen_jobs(seen_jobs)
     print("완료!")
