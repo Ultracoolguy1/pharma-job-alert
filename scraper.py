@@ -73,23 +73,27 @@ def search_jobkorea(keyword):
 
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
+            links = soup.select("a[href*='/Recruit/GI_Read/']")
 
-            for link_el in soup.select("a[href*='/Recruit/GI_Read/']"):
-                title = link_el.get_text(strip=True)
-                if not title or len(title) < 3:
+            # href 기준으로 그룹핑 (첫번째=제목, 두번째=회사명)
+            href_map = {}
+            for link_el in links:
+                href = link_el.get("href", "").split("?")[0]  # 쿼리스트링 제거
+                text = link_el.get_text(strip=True)
+                if not text or len(text) < 2:
                     continue
+                if href not in href_map:
+                    href_map[href] = []
+                href_map[href].append(text)
 
-                href = link_el.get("href", "")
-                link = f"https://www.jobkorea.co.kr{href}" if href.startswith("/") else href
+            for href, texts in href_map.items():
+                if len(texts) < 2:
+                    continue
+                title = texts[0]
+                company_name = texts[1]
+                link = f"https://www.jobkorea.co.kr{href}"
 
-                company_name = ""
-                for sib in link_el.find_next_siblings("a"):
-                    text = sib.get_text(strip=True)
-                    if text:
-                        company_name = text
-                        break
-
-                if company_name and is_target_company(company_name):
+                if is_target_company(company_name):
                     job_id = f"jobkorea_{href}"
                     results.append({
                         "id": job_id,
