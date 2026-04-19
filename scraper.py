@@ -26,7 +26,6 @@ def save_seen_jobs(seen_jobs):
         json.dump(list(seen_jobs), f)
 
 def is_target_company(company_name):
-    """EXACT_COMPANIES 목록에 있는 회사인지 확인"""
     for exact in EXACT_COMPANIES:
         if exact == company_name or exact in company_name:
             return True
@@ -69,7 +68,7 @@ def search_saramin(keyword):
 def search_jobkorea(keyword):
     results = []
     try:
-        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(keyword)}&tabType=recruit"
+        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(keyword)}&tabType=recruit&dkwrd=10003843052"
         response = requests.get(url, headers=HEADERS, timeout=10)
 
         if response.status_code == 200:
@@ -134,7 +133,6 @@ def main():
         all_jobs.extend(saramin + jobkorea)
         time.sleep(1)
 
-    # 중복 제거 (플랫폼 간 포함)
     seen_titles = {}
     for job in all_jobs:
         job_id = job["id"]
