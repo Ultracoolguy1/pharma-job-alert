@@ -8,65 +8,86 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f7; color: #1d1d1f; }
 
-  .layout { display: flex; height: 100vh; }
+  /* 모바일 기본 */
+  .layout { display: flex; flex-direction: column; min-height: 100vh; }
 
-  /* 사이드바 */
-  .sidebar { width: 220px; background: #fff; border-right: 0.5px solid #e0e0e0; display: flex; flex-direction:column; transition: width 0.25s; overflow: hidden; flex-shrink: 0; }
-  .sidebar.closed { width: 0; }
-  .sidebar-header { height: 52px; padding: 0 16px; border-bottom: 0.5px solid #e0e0e0; display: flex; flex-direction: column; justify-content: center; }
-  .sidebar-header p { font-size: 13px; font-weight: 500; color: #1d1d1f; }
-  .sidebar-header span { font-size: 11px; color: #888; }
-  .company-list { overflow-y: auto; flex: 1; }
-  .company-item { display: flex; align-items: center; gap: 10px; padding: 9px 16px; border-bottom: 0.5px solid #f0f0f0; cursor: pointer; transition: background 0.15s; }
-  .company-item:hover { background: #f5f5f7; }
+  /* 상단 헤더 */
+  .topbar { height: 52px; padding: 0 16px; border-bottom: 0.5px solid #e0e0e0; display: flex; align-items: center; gap: 12px; background: #fff; position: sticky; top: 0; z-index: 100; }
+  .toggle-btn { width: 32px; height: 32px; border: 0.5px solid #e0e0e0; border-radius: 8px; background: #fff; cursor: pointer; font-size: 16px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .page-title { font-size: 15px; font-weight: 500; flex: 1; }
+  .updated-text { font-size: 11px; color: #aaa; }
+
+  /* 사이드바 오버레이 */
+  .overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.3); z-index: 200; }
+  .overlay.open { display: block; }
+  .sidebar { position: fixed; top: 0; left: -260px; width: 260px; height: 100%; background: #fff; border-right: 0.5px solid #e0e0e0; display: flex; flex-direction: column; transition: left 0.25s; z-index: 300; }
+  .sidebar.open { left: 0; }
+  .sidebar-header { height: 52px; padding: 0 16px; border-bottom: 0.5px solid #e0e0e0; display: flex; align-items: center; justify-content: space-between; }
+  .sidebar-header-text p { font-size: 14px; font-weight: 500; }
+  .sidebar-header-text span { font-size: 11px; color: #888; }
+  .close-btn { width: 28px; height: 28px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888; }
+  .company-list { overflow-y: auto; flex: 1; -webkit-overflow-scrolling: touch; }
+  .company-item { display: flex; align-items: center; gap: 10px; padding: 12px 16px; border-bottom: 0.5px solid #f0f0f0; cursor: pointer; }
   .company-item.active { background: #f0f0ff; }
   .company-item.active .company-name { color: #5856d6; font-weight: 500; }
-  .company-rank { font-size: 11px; color: #bbb; min-width: 18px; text-align: right; }
-  .company-name { font-size: 13px; color: #1d1d1f; white-space: nowrap; }
+  .company-rank { font-size: 11px; color: #bbb; min-width: 20px; text-align: right; }
+  .company-name { font-size: 14px; }
 
-  /* 메인 */
-  .main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
-  .topbar { height: 52px; padding: 0 16px; border-bottom: 0.5px solid #e0e0e0; display: flex; align-items: center; gap: 12px; background: #fff; }
-  .toggle-btn { width: 32px; height: 32px; border: 0.5px solid #e0e0e0; border-radius: 8px; background: #fff; cursor: pointer; font-size: 16px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-  .toggle-btn:hover { background: #f5f5f7; }
-  .page-title { font-size: 15px; font-weight: 500; }
+  /* 검색 */
+  .search-bar { padding: 10px 16px; display: flex; flex-direction: column; gap: 8px; background: #fff; border-bottom: 0.5px solid #e0e0e0; }
+  .search-bar input { width: 100%; height: 38px; border: 0.5px solid #e0e0e0; border-radius: 10px; padding: 0 12px; font-size: 14px; outline: none; background: #f5f5f7; }
+  .search-bar input:focus { border-color: #5856d6; background: #fff; }
 
-  .search-bar { padding: 12px 16px; border-bottom: 0.5px solid #e0e0e0; display: flex; gap: 8px; background: #fff; }
-  .search-bar input { flex: 1; height: 36px; border: 0.5px solid #e0e0e0; border-radius: 8px; padding: 0 12px; font-size: 13px; outline: none; }
-  .search-bar input:focus { border-color: #5856d6; }
-
-  .stats-bar { padding: 12px 16px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; border-bottom: 0.5px solid #e0e0e0; background: #fff; }
-  .stat { background: #f5f5f7; border-radius: 8px; padding: 10px 12px; }
+  /* 통계 */
+  .stats-bar { padding: 12px 16px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; background: #f5f5f7; }
+  .stat { background: #fff; border-radius: 10px; padding: 10px 12px; }
   .stat-label { font-size: 11px; color: #888; margin-bottom: 4px; }
   .stat-value { font-size: 20px; font-weight: 500; }
+  .stat-value.small { font-size: 13px; padding-top: 4px; }
 
-  .content { flex: 1; overflow-y: auto; padding: 16px; }
-  .result-info { font-size: 12px; color: #888; margin-bottom: 12px; }
+  /* 공고 목록 */
+  .content { flex: 1; padding: 12px 16px; }
+  .result-info { font-size: 12px; color: #888; margin-bottom: 10px; }
 
-  .job-card { background: #fff; border: 0.5px solid #e0e0e0; border-radius: 12px; padding: 14px; margin-bottom: 10px; transition: box-shadow 0.15s; }
-  .job-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+  .job-card { background: #fff; border-radius: 12px; padding: 14px; margin-bottom: 10px; border: 0.5px solid #e8e8e8; }
   .job-top { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 6px; }
   .job-title { font-size: 14px; font-weight: 500; flex: 1; padding-right: 10px; line-height: 1.4; }
   .badge-new { font-size: 11px; padding: 2px 8px; border-radius: 6px; background: #e8f5e9; color: #2e7d32; white-space: nowrap; }
   .badge-date { font-size: 11px; padding: 2px 8px; border-radius: 6px; background: #f5f5f7; color: #888; white-space: nowrap; }
-  .job-company { font-size: 12px; color: #888; margin-bottom: 10px; }
+  .job-company { font-size: 13px; color: #888; margin-bottom: 10px; }
   .job-bottom { display: flex; align-items: center; justify-content: space-between; }
-  .platform-badge { font-size: 11px; padding: 2px 8px; border-radius: 6px; }
+  .platform-badge { font-size: 11px; padding: 3px 8px; border-radius: 6px; }
   .platform-saramin { background: #e3f2fd; color: #1565c0; }
   .platform-jobkorea { background: #fff3e0; color: #e65100; }
-  .job-link { font-size: 12px; color: #5856d6; text-decoration: none; }
-  .job-link:hover { text-decoration: underline; }
+  .job-link { font-size: 13px; color: #5856d6; text-decoration: none; padding: 6px 0; }
 
-  .empty { text-align: center; padding: 3rem; font-size: 14px; color: #888; }
+  .empty { text-align: center; padding: 3rem 1rem; font-size: 14px; color: #888; }
+
+  /* PC에서는 사이드바 고정 */
+  @media (min-width: 768px) {
+    .layout { flex-direction: row; height: 100vh; }
+    .overlay { display: none !important; }
+    .sidebar { position: relative; left: 0 !important; width: 220px; height: 100%; transition: width 0.25s; }
+    .sidebar.closed { width: 0; overflow: hidden; }
+    .main { flex: 1; min-width: 0; display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+    .content { overflow-y: auto; flex: 1; }
+    .stats-bar { grid-template-columns: repeat(4, 1fr); }
+    .close-btn { display: none; }
+  }
 </style>
 </head>
 <body>
 
+<div class="overlay" id="overlay" onclick="closeSidebar()"></div>
+
 <div class="layout">
   <div class="sidebar" id="sidebar">
     <div class="sidebar-header">
-      <p>트래킹 기업</p>
-      <span>매출 순위</span>
+      <div class="sidebar-header-text">
+        <p>트래킹 기업</p>
+        <span>매출 순위</span>
+      </div>
+      <button class="close-btn" onclick="closeSidebar()">✕</button>
     </div>
     <div class="company-list" id="company-list"></div>
   </div>
@@ -75,18 +96,19 @@
     <div class="topbar">
       <button class="toggle-btn" onclick="toggleSidebar()">☰</button>
       <span class="page-title" id="page-title">전체 공고</span>
+      <span class="updated-text" id="stat-updated"></span>
     </div>
 
     <div class="search-bar">
-      <input type="text" id="search-company" placeholder="회사명 검색">
-      <input type="text" id="search-title" placeholder="공고명 검색">
+      <input type="text" id="search-company" placeholder="🔍 회사명 검색">
+      <input type="text" id="search-title" placeholder="🔍 공고명 검색">
     </div>
 
     <div class="stats-bar">
       <div class="stat"><div class="stat-label">오늘 새 공고</div><div class="stat-value" id="stat-today">0</div></div>
       <div class="stat"><div class="stat-label">누적 공고</div><div class="stat-value" id="stat-total">0</div></div>
       <div class="stat"><div class="stat-label">트래킹 기업</div><div class="stat-value" id="stat-companies">0</div></div>
-      <div class="stat"><div class="stat-label">마지막 업데이트</div><div class="stat-value" style="font-size:13px;" id="stat-updated">-</div></div>
+      <div class="stat"><div class="stat-label">마지막 업데이트</div><div class="stat-value small" id="stat-updated2">-</div></div>
     </div>
 
     <div class="content">
@@ -113,10 +135,7 @@ const COMPANIES = [
 
 let allJobs = [];
 let activeCompany = "";
-let sidebarOpen = true;
-const today = new Date().toLocaleDateString("ko-KR", {year:"numeric",month:"2-digit",day:"2-digit"}).replace(/\./g,"").replace(/ /g,".");
 
-// 사이드바 회사 목록 렌더링
 const companyList = document.getElementById("company-list");
 COMPANIES.forEach((c, i) => {
   const el = document.createElement("div");
@@ -133,12 +152,24 @@ function selectCompany(name, idx) {
   document.getElementById("search-company").value = "";
   document.querySelectorAll(".company-item").forEach(el => el.classList.remove("active"));
   document.getElementById(`co-${idx}`).classList.add("active");
+  closeSidebar();
   render();
 }
 
 function toggleSidebar() {
-  sidebarOpen = !sidebarOpen;
-  document.getElementById("sidebar").classList.toggle("closed", !sidebarOpen);
+  const sidebar = document.getElementById("sidebar");
+  const isMobile = window.innerWidth < 768;
+  if (isMobile) {
+    sidebar.classList.add("open");
+    document.getElementById("overlay").classList.add("open");
+  } else {
+    sidebar.classList.toggle("closed");
+  }
+}
+
+function closeSidebar() {
+  document.getElementById("sidebar").classList.remove("open");
+  document.getElementById("overlay").classList.remove("open");
 }
 
 function isToday(dateStr) {
@@ -153,4 +184,61 @@ function render() {
   const list = document.getElementById("job-list");
 
   const filtered = allJobs.filter(j => {
-    const matchCompany = activeCompany ? j.company.includes(
+    const matchCompany = activeCompany ? j.company.includes(activeCompany) : (companyQ === "" || j.company.toLowerCase().includes(companyQ));
+    const matchTitle = titleQ === "" || j.title.toLowerCase().includes(titleQ);
+    return matchCompany && matchTitle;
+  });
+
+  document.getElementById("result-info").textContent = `${filtered.length}건`;
+
+  if (filtered.length === 0) {
+    list.innerHTML = `<div class="empty">공고가 없어요</div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map(j => {
+    const isNew = isToday(j.date);
+    const platformClass = j.platform === "사람인" ? "platform-saramin" : "platform-jobkorea";
+    return `
+      <div class="job-card">
+        <div class="job-top">
+          <div class="job-title">${j.title}</div>
+          <span class="${isNew ? 'badge-new' : 'badge-date'}">${isNew ? 'NEW' : j.date}</span>
+        </div>
+        <div class="job-company">${j.company}</div>
+        <div class="job-bottom">
+          <span class="platform-badge ${platformClass}">${j.platform}</span>
+          <a class="job-link" href="${j.link}" target="_blank">바로가기 →</a>
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+fetch("jobs.json")
+  .then(r => r.json())
+  .then(data => {
+    allJobs = data;
+    const todayJobs = data.filter(j => isToday(j.date));
+    document.getElementById("stat-today").textContent = todayJobs.length;
+    document.getElementById("stat-total").textContent = data.length;
+    document.getElementById("stat-companies").textContent = COMPANIES.length;
+    const lastDate = data.length > 0 ? data[0].date : "-";
+    document.getElementById("stat-updated").textContent = lastDate;
+    document.getElementById("stat-updated2").textContent = lastDate;
+    render();
+  })
+  .catch(() => {
+    document.getElementById("job-list").innerHTML = `<div class="empty">데이터를 불러오는 중...</div>`;
+  });
+
+document.getElementById("search-company").addEventListener("input", () => {
+  activeCompany = "";
+  document.getElementById("page-title").textContent = "전체 공고";
+  document.querySelectorAll(".company-item").forEach(el => el.classList.remove("active"));
+  render();
+});
+document.getElementById("search-title").addEventListener("input", render);
+</script>
+</body>
+</html>
