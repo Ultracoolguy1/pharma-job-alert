@@ -4,7 +4,7 @@ import os
 import time
 from datetime import datetime
 from bs4 import BeautifulSoup
-from companies import KEYWORDS, EXACT_COMPANIES
+from companies import EXACT_COMPANIES
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 SEEN_JOBS_FILE = "seen_jobs.json"
@@ -31,10 +31,10 @@ def is_target_company(company_name):
             return True
     return False
 
-def search_saramin(keyword):
+def search_saramin(company):
     results = []
     try:
-        url = f"https://www.saramin.co.kr/zf_user/search?searchword={requests.utils.quote(keyword)}&ind_key=70302%2C70306&recruitPage=1"
+        url = f"https://www.saramin.co.kr/zf_user/search?searchword={requests.utils.quote(company)}&ind_key=70302%2C70306&recruitPage=1"
         response = requests.get(url, headers=HEADERS, timeout=10)
 
         if response.status_code == 200:
@@ -62,23 +62,22 @@ def search_saramin(keyword):
                         "platform": "사람인"
                     })
     except Exception as e:
-        print(f"사람인 오류 ({keyword}): {e}")
+        print(f"사람인 오류 ({company}): {e}")
     return results
 
-def search_jobkorea(keyword):
+def search_jobkorea(company):
     results = []
     try:
-        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(keyword)}&tabType=recruit&dkwrd=10003843052"
+        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(company)}&tabType=recruit&dkwrd=10003843052"
         response = requests.get(url, headers=HEADERS, timeout=10)
 
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
             links = soup.select("a[href*='/Recruit/GI_Read/']")
 
-            # href 기준으로 그룹핑 (첫번째=제목, 두번째=회사명)
             href_map = {}
             for link_el in links:
-                href = link_el.get("href", "").split("?")[0]  # 쿼리스트링 제거
+                href = link_el.get("href", "").split("?")[0]
                 text = link_el.get_text(strip=True)
                 if not text or len(text) < 2:
                     continue
@@ -103,7 +102,7 @@ def search_jobkorea(keyword):
                         "platform": "잡코리아"
                     })
     except Exception as e:
-        print(f"잡코리아 오류 ({keyword}): {e}")
+        print(f"잡코리아 오류 ({company}): {e}")
     return results
 
 def send_slack(new_jobs):
@@ -130,10 +129,10 @@ def main():
     seen_ids = set()
     new_jobs = []
 
-    for keyword in KEYWORDS:
-        print(f"검색: {keyword}")
-        saramin = search_saramin(keyword)
-        jobkorea = search_jobkorea(keyword)
+    for company in EXACT_COMPANIES:
+        print(f"검색: {company}")
+        saramin = search_saramin(company)
+        jobkorea = search_jobkorea(company)
         print(f"  사람인: {len(saramin)}건, 잡코리아: {len(jobkorea)}건")
         all_jobs.extend(saramin + jobkorea)
         time.sleep(1)
