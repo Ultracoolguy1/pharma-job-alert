@@ -23,10 +23,7 @@ INCLUDE_KEYWORDS = [
 ]
 
 def is_relevant_job(title):
-    for kw in INCLUDE_KEYWORDS:
-        if kw in title:
-            return True
-    return False
+    return True  # 임시로 전체 허용
 
 def clean_jobkorea_title(title_el):
     try:
@@ -112,7 +109,7 @@ def get_saramin_by_code(company, code):
                 date_el = item.select_one(".job_date .date") or item.select_one(".date")
                 if date_el:
                     deadline_raw = date_el.get_text(strip=True)
-                print(f"    [사람인] {title} | 마감일 원본: {deadline_raw}")
+                print(f"    [사람인] {title} | 마감일: {deadline_raw}")
                 dday = calc_dday(deadline_raw)
                 results.append({
                     "id": f"saramin_{link}",
@@ -151,7 +148,7 @@ def get_saramin_by_search(company):
                 date_el = item.select_one(".job_date .date")
                 if date_el:
                     deadline_raw = date_el.get_text(strip=True)
-                print(f"    [사람인] {title} | 마감일 원본: {deadline_raw}")
+                print(f"    [사람인] {title} | 마감일: {deadline_raw}")
                 dday = calc_dday(deadline_raw)
                 results.append({
                     "id": f"saramin_{link}",
@@ -192,14 +189,11 @@ def get_jobkorea_by_code(company, code):
                 date_match = re.search(r"\d{4}-\d{2}-\d{2}|\d{4}\.\d{2}\.\d{2}|\d{2}/\d{2}", text_content)
                 if date_match:
                     deadline_raw = date_match.group()
-                    print(f"    [잡코리아] {title} | 마감일 원본: {deadline_raw}")
                     dday = calc_dday(deadline_raw)
                 elif "상시" in text_content:
                     deadline_raw = "상시채용"
                     dday = "상시채용"
-                    print(f"    [잡코리아] {title} | 마감일 원본: 상시채용")
-                else:
-                    print(f"    [잡코리아] {title} | 마감일 원본: 없음")
+                print(f"    [잡코리아] {title} | 마감일: {deadline_raw}")
                 results.append({
                     "id": f"jobkorea_{href}",
                     "title": title,
