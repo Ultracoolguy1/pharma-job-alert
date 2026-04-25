@@ -10,7 +10,6 @@ from companies import EXACT_COMPANIES
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 SEEN_JOBS_FILE = "seen_jobs.json"
 JOBS_FILE = "jobs.json"
-CODES_FILE = "company_codes.json"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -50,12 +49,6 @@ def save_all_jobs(jobs):
     with open(JOBS_FILE, "w", encoding="utf-8") as f:
         json.dump(jobs, f, ensure_ascii=False, indent=2)
 
-def load_codes():
-    if os.path.exists(CODES_FILE):
-        with open(CODES_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
-
 def calc_dday(deadline_str):
     if not deadline_str or deadline_str in ["상시채용", "채용시마감", "-"]:
         return deadline_str or "-"
@@ -83,7 +76,6 @@ def calc_dday(deadline_str):
         return deadline_str
 
 def search_saramin(company):
-    """사람인 - 기존 검색 방식 (안정적)"""
     results = []
     try:
         url = f"https://www.saramin.co.kr/zf_user/search?searchword={requests.utils.quote(company)}&ind_key=70302%2C70306&recruitPage=1"
@@ -122,53 +114,7 @@ def search_saramin(company):
         print(f"사람인 오류 ({company}): {e}")
     return results
 
-def get_jobkorea_by_code(company, code):
-    """잡코리아 - 기업 코드로 직접 접근"""
-    results = []
-    try:
-        url = f"https://www.jobkorea.co.kr/Company/{code}/Recruit"
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, "html.parser")
-            job_items = soup.select(".list-post") or soup.select(".recruit-list li")
-            for item in job_items:
-                title_el = item.select_one("a[href*='/Recruit/GI_Read/']")
-                if not title_el:
-                    continue
-                title = clean_jobkorea_title(title_el)
-                if not title or len(title) < 2:
-                    continue
-                if not is_relevant_job(title):
-                    continue
-                href = title_el.get("href", "").split("?")[0]
-                link = f"https://www.jobkorea.co.kr{href}"
-                deadline_raw = ""
-                dday = "-"
-                text_content = item.get_text()
-                date_match = re.search(r"\d{4}-\d{2}-\d{2}|\d{4}\.\d{2}\.\d{2}|\d{2}/\d{2}", text_content)
-                if date_match:
-                    deadline_raw = date_match.group()
-                    dday = calc_dday(deadline_raw)
-                elif "상시" in text_content:
-                    deadline_raw = "상시채용"
-                    dday = "상시채용"
-                print(f"    [잡코리아] {title} | 마감일: {deadline_raw}")
-                results.append({
-                    "id": f"jobkorea_{href}",
-                    "title": title,
-                    "company": company,
-                    "link": link,
-                    "platform": "잡코리아",
-                    "deadline": deadline_raw,
-                    "dday": dday,
-                    "date": datetime.now().strftime("%Y.%m.%d")
-                })
-    except Exception as e:
-        print(f"잡코리아 코드 오류 ({company}): {e}")
-    return results
-
-def get_jobkorea_by_search(company):
-    """잡코리아 - 코드 없을 때 검색 fallback"""
+def search_jobkorea(company):
     results = []
     try:
         url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(company)}&tabType=recruit&dkwrd=10003843052"
@@ -193,18 +139,39 @@ def get_jobkorea_by_search(company):
                 if not is_relevant_job(title):
                     continue
                 link = f"https://www.jobkorea.co.kr{href}"
+
+                # 마감일 찾기
+                deadline_raw = ""
+                dday = "-"
+                try:
+                    link_el = soup.find("a", href=lambda h: h and href in h)
+                    if link_el:
+                        parent = link_el.find_parent()
+                        if parent:
+                            text_content = parent.get_text()
+                            date_match = re.search(r"\d{4}-\d{2}-\d{2}|\d{4}\.\d{2}\.\d{2}|\d{2}/\d{2}", text_content)
+                            if date_match:
+                                deadline_raw = date_match.group()
+                                dday = calc_dday(deadline_raw)
+                            elif "상시" in text_content:
+                                deadline_raw = "상시채용"
+                                dday = "상시채용"
+                except:
+                    pass
+
+                print(f"    [잡코리아] {title} | 마감일: {deadline_raw}")
                 results.append({
                     "id": f"jobkorea_{href}",
                     "title": title,
                     "company": company_name,
                     "link": link,
                     "platform": "잡코리아",
-                    "deadline": "",
-                    "dday": "-",
+                    "deadline": deadline_raw,
+                    "dday": dday,
                     "date": datetime.now().strftime("%Y.%m.%d")
                 })
     except Exception as e:
-        print(f"잡코리아 검색 오류 ({company}): {e}")
+        print(f"잡코리아 오류 ({company}): {e}")
     return results
 
 def send_slack(new_jobs):
@@ -225,24 +192,12 @@ def send_slack(new_jobs):
 def main():
     print(f"[{datetime.now()}] 수집 시작")
     seen_jobs = load_seen_jobs()
-    codes = load_codes()
     all_jobs = []
 
     for company in EXACT_COMPANIES:
-        company_codes = codes.get(company, {})
-        jobkorea_code = company_codes.get("jobkorea")
-
         print(f"검색: {company}")
-
-        # 사람인은 항상 검색 방식
         saramin = search_saramin(company)
-
-        # 잡코리아는 코드 있으면 직접, 없으면 검색
-        if jobkorea_code:
-            jobkorea = get_jobkorea_by_code(company, jobkorea_code)
-        else:
-            jobkorea = get_jobkorea_by_search(company)
-
+        jobkorea = search_jobkorea(company)
         print(f"  사람인: {len(saramin)}건, 잡코리아: {len(jobkorea)}건")
         all_jobs.extend(saramin + jobkorea)
         time.sleep(1)
