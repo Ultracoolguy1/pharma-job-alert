@@ -29,7 +29,6 @@ def is_relevant_job(title):
     return False
 
 def clean_jobkorea_title(title_el):
-    """잡코리아 공고명 첫 번째 텍스트 노드만 추출"""
     try:
         strings = list(title_el.strings)
         if strings:
@@ -76,6 +75,8 @@ def calc_dday(deadline_str):
                 deadline = datetime(now.year + 1, int(month), int(day))
         elif re.match(r"\d{4}\.\d{2}\.\d{2}", deadline_str):
             deadline = datetime.strptime(deadline_str, "%Y.%m.%d")
+        elif re.match(r"\d{4}-\d{2}-\d{2}", deadline_str):
+            deadline = datetime.strptime(deadline_str, "%Y-%m-%d")
         else:
             return deadline_str
         diff = (deadline.date() - now.date()).days
@@ -111,6 +112,7 @@ def get_saramin_by_code(company, code):
                 date_el = item.select_one(".job_date .date") or item.select_one(".date")
                 if date_el:
                     deadline_raw = date_el.get_text(strip=True)
+                print(f"    [사람인] {title} | 마감일 원본: {deadline_raw}")
                 dday = calc_dday(deadline_raw)
                 results.append({
                     "id": f"saramin_{link}",
@@ -149,6 +151,7 @@ def get_saramin_by_search(company):
                 date_el = item.select_one(".job_date .date")
                 if date_el:
                     deadline_raw = date_el.get_text(strip=True)
+                print(f"    [사람인] {title} | 마감일 원본: {deadline_raw}")
                 dday = calc_dday(deadline_raw)
                 results.append({
                     "id": f"saramin_{link}",
@@ -186,13 +189,17 @@ def get_jobkorea_by_code(company, code):
                 deadline_raw = ""
                 dday = "-"
                 text_content = item.get_text()
-                date_match = re.search(r"\d{2}/\d{2}", text_content)
+                date_match = re.search(r"\d{4}-\d{2}-\d{2}|\d{4}\.\d{2}\.\d{2}|\d{2}/\d{2}", text_content)
                 if date_match:
                     deadline_raw = date_match.group()
+                    print(f"    [잡코리아] {title} | 마감일 원본: {deadline_raw}")
                     dday = calc_dday(deadline_raw)
                 elif "상시" in text_content:
                     deadline_raw = "상시채용"
                     dday = "상시채용"
+                    print(f"    [잡코리아] {title} | 마감일 원본: 상시채용")
+                else:
+                    print(f"    [잡코리아] {title} | 마감일 원본: 없음")
                 results.append({
                     "id": f"jobkorea_{href}",
                     "title": title,
@@ -288,7 +295,6 @@ def main():
         all_jobs.extend(saramin + jobkorea)
         time.sleep(1)
 
-    # 같은 플랫폼 내 중복만 제거
     seen_ids_dedup = set()
     unique_jobs = []
     for job in all_jobs:
@@ -296,7 +302,6 @@ def main():
             unique_jobs.append(job)
             seen_ids_dedup.add(job["id"])
 
-    # 새 공고 찾기
     new_jobs = []
     seen_ids = set()
     for job in unique_jobs:
@@ -306,7 +311,6 @@ def main():
 
     print(f"새 공고 {len(new_jobs)}건")
 
-    # jobs.json 업데이트
     existing_jobs = load_all_jobs()
     existing_ids = {j["id"] for j in existing_jobs}
     for job in unique_jobs:
