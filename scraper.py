@@ -117,7 +117,8 @@ def search_saramin(company):
 def search_jobkorea(company):
     results = []
     try:
-        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(company)}&tabType=recruit&dkwrd=10003843052"
+        # 업종 필터 제거 - 회사명 검색만으로 충분
+        url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(company)}&tabType=recruit"
         response = requests.get(url, headers=HEADERS, timeout=10)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
@@ -140,7 +141,6 @@ def search_jobkorea(company):
                     continue
                 link = f"https://www.jobkorea.co.kr{href}"
 
-                # 마감일 찾기
                 deadline_raw = ""
                 dday = "-"
                 try:
