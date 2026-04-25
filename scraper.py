@@ -18,10 +18,8 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# 포함 키워드 (하나라도 있으면 OK)
 INCLUDE_KEYWORDS = [
-    "영업기획", "영업관리", "SFE", "CRM", "기획",
-    "공개채용", "신입공채", "경력공채", "수시채용"
+    "영업기획", "영업관리", "SFE", "CRM", "기획"
 ]
 
 def is_relevant_job(title):
@@ -29,6 +27,16 @@ def is_relevant_job(title):
         if kw in title:
             return True
     return False
+
+def clean_jobkorea_title(title_el):
+    """잡코리아 공고명 첫 번째 텍스트 노드만 추출"""
+    try:
+        strings = list(title_el.strings)
+        if strings:
+            return strings[0].strip()
+    except:
+        pass
+    return title_el.get_text(strip=True)
 
 def load_seen_jobs():
     if os.path.exists(SEEN_JOBS_FILE):
@@ -163,24 +171,18 @@ def get_jobkorea_by_code(company, code):
         response = requests.get(url, headers=HEADERS, timeout=10)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
-
-            # 공고 아이템 직접 선택
             job_items = soup.select(".list-post") or soup.select(".recruit-list li")
-
             for item in job_items:
-                # 공고 제목 링크
                 title_el = item.select_one("a[href*='/Recruit/GI_Read/']")
                 if not title_el:
                     continue
-                title = title_el.get_text(strip=True)
+                title = clean_jobkorea_title(title_el)
                 if not title or len(title) < 2:
                     continue
                 if not is_relevant_job(title):
                     continue
                 href = title_el.get("href", "").split("?")[0]
                 link = f"https://www.jobkorea.co.kr{href}"
-
-                # 마감일
                 deadline_raw = ""
                 dday = "-"
                 text_content = item.get_text()
@@ -191,7 +193,6 @@ def get_jobkorea_by_code(company, code):
                 elif "상시" in text_content:
                     deadline_raw = "상시채용"
                     dday = "상시채용"
-
                 results.append({
                     "id": f"jobkorea_{href}",
                     "title": title,
@@ -216,7 +217,7 @@ def get_jobkorea_by_search(company):
             href_map = {}
             for link_el in soup.select("a[href*='/Recruit/GI_Read/']"):
                 href = link_el.get("href", "").split("?")[0]
-                text = link_el.get_text(strip=True)
+                text = clean_jobkorea_title(link_el)
                 if not text or len(text) < 2:
                     continue
                 if href not in href_map:
