@@ -18,12 +18,8 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-INCLUDE_KEYWORDS = [
-    "영업기획", "영업관리", "SFE", "CRM", "기획"
-]
-
 def is_relevant_job(title):
-    return True  # 임시로 전체 허용
+    return True  # 임시 전체 허용
 
 def clean_jobkorea_title(title_el):
     try:
@@ -86,46 +82,8 @@ def calc_dday(deadline_str):
     except:
         return deadline_str
 
-def get_saramin_by_code(company, code):
-    results = []
-    try:
-        url = f"https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit?csn={code}"
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, "html.parser")
-            job_items = soup.select(".item_recruit")
-            if not job_items:
-                job_items = soup.select(".recruitment_list li")
-            for item in job_items:
-                title_el = item.select_one(".job_tit a") or item.select_one("a.tit")
-                if not title_el:
-                    continue
-                title = title_el.get_text(strip=True)
-                if not is_relevant_job(title):
-                    continue
-                href = title_el.get("href", "")
-                link = f"https://www.saramin.co.kr{href}" if href.startswith("/") else href
-                deadline_raw = ""
-                date_el = item.select_one(".job_date .date") or item.select_one(".date")
-                if date_el:
-                    deadline_raw = date_el.get_text(strip=True)
-                print(f"    [사람인] {title} | 마감일: {deadline_raw}")
-                dday = calc_dday(deadline_raw)
-                results.append({
-                    "id": f"saramin_{link}",
-                    "title": title,
-                    "company": company,
-                    "link": link,
-                    "platform": "사람인",
-                    "deadline": deadline_raw,
-                    "dday": dday,
-                    "date": datetime.now().strftime("%Y.%m.%d")
-                })
-    except Exception as e:
-        print(f"사람인 코드 오류 ({company}): {e}")
-    return results
-
-def get_saramin_by_search(company):
+def search_saramin(company):
+    """사람인 - 기존 검색 방식 (안정적)"""
     results = []
     try:
         url = f"https://www.saramin.co.kr/zf_user/search?searchword={requests.utils.quote(company)}&ind_key=70302%2C70306&recruitPage=1"
@@ -161,10 +119,11 @@ def get_saramin_by_search(company):
                     "date": datetime.now().strftime("%Y.%m.%d")
                 })
     except Exception as e:
-        print(f"사람인 검색 오류 ({company}): {e}")
+        print(f"사람인 오류 ({company}): {e}")
     return results
 
 def get_jobkorea_by_code(company, code):
+    """잡코리아 - 기업 코드로 직접 접근"""
     results = []
     try:
         url = f"https://www.jobkorea.co.kr/Company/{code}/Recruit"
@@ -209,6 +168,7 @@ def get_jobkorea_by_code(company, code):
     return results
 
 def get_jobkorea_by_search(company):
+    """잡코리아 - 코드 없을 때 검색 fallback"""
     results = []
     try:
         url = f"https://www.jobkorea.co.kr/Search/?stext={requests.utils.quote(company)}&tabType=recruit&dkwrd=10003843052"
@@ -270,16 +230,14 @@ def main():
 
     for company in EXACT_COMPANIES:
         company_codes = codes.get(company, {})
-        saramin_code = company_codes.get("saramin")
         jobkorea_code = company_codes.get("jobkorea")
 
         print(f"검색: {company}")
 
-        if saramin_code:
-            saramin = get_saramin_by_code(company, saramin_code)
-        else:
-            saramin = get_saramin_by_search(company)
+        # 사람인은 항상 검색 방식
+        saramin = search_saramin(company)
 
+        # 잡코리아는 코드 있으면 직접, 없으면 검색
         if jobkorea_code:
             jobkorea = get_jobkorea_by_code(company, jobkorea_code)
         else:
