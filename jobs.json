@@ -1,5 +1,1415 @@
 [
   {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49965374",
+    "title": "상시 인재pool 등록(임상)",
+    "company": "환인제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/49965374",
+    "platform": "잡코리아",
+    "deadline": "상시채용",
+    "dday": "상시채용",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49965457",
+    "title": "상시 인재pool 등록(의약화학)",
+    "company": "환인제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/49965457",
+    "platform": "잡코리아",
+    "deadline": "상시채용",
+    "dday": "상시채용",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49965433",
+    "title": "상시 인재pool 등록(의약평가)",
+    "company": "환인제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/49965433",
+    "platform": "잡코리아",
+    "deadline": "상시채용",
+    "dday": "상시채용",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171772&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "title": "동성제약Senior Brand & Package Designer  채용",
+    "company": "동성제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171772&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "platform": "사람인",
+    "deadline": "~ 10/15(목)",
+    "dday": "~ 10/15(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171867&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "title": "동성제약아마존 MD 채용",
+    "company": "동성제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171867&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "platform": "사람인",
+    "deadline": "~ 10/15(목)",
+    "dday": "~ 10/15(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132547&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "title": "동성제약아산공장 공무(공조,냉동,보일러,기계설비관리)직원채용",
+    "company": "동성제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132547&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091713&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "title": "동성제약아산공장 의약생산부 채용(특수제제)",
+    "company": "동성제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091713&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091694&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "title": "동성제약아산공장 의약생산부 채용(혼합)",
+    "company": "동성제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091694&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=f48a29e6-beba-43b7-803d-843183589c45",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023835&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "title": "코오롱제약신약개발부문-AI/CADD(분자모델링, AI) 팀장 채용",
+    "company": "코오롱제약(주) 신약개발부문",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023835&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934816&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "title": "코오롱제약신약개발부문-약물평가(분자생물,ADME,PK)팀장 채용",
+    "company": "코오롱제약(주) 신약개발부문",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934816&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934693&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "title": "코오롱제약신약개발부문 - 의약화학 (Medicinal Chemistry)채용",
+    "company": "코오롱제약(주) 신약개발부문",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934693&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b7d49b99-e562-4753-ba85-31852662792a",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50073303",
+    "title": "[한국콜마] 26년 9월 세종사업장 물류지원 신입사원 수시채용",
+    "company": "한국콜마㈜",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50073303",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187517&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "title": "조아제약(주) 부산영업소 채용 공고",
+    "company": "조아제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187517&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "platform": "사람인",
+    "deadline": "~ 11/01(일)",
+    "dday": "~ 11/01(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157857&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "title": "조아제약(주) 제주도 지역 영업사원 채용",
+    "company": "조아제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157857&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55008191&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "title": "조아제약(주) 전주영업소 채용 공고",
+    "company": "조아제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55008191&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013741&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "title": "조아제약함안공장 품질보증팀원 채용",
+    "company": "조아제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013741&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54940258&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "title": "조아제약(주) 강원영업소 영업사원 채용",
+    "company": "조아제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54940258&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b75e549e-3848-4dff-9df7-b844c3e210b2",
+    "platform": "사람인",
+    "deadline": "오늘마감",
+    "dday": "오늘마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158889&location=ts&searchword=%ED%95%9C%EA%B5%AD%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=bc576235-5b85-4ce2-aa51-c974373ff822",
+    "title": "한국유나이티드제약(주) 마케팅팀 신입사원 모집",
+    "company": "한국유나이티드제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158889&location=ts&searchword=%ED%95%9C%EA%B5%AD%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=bc576235-5b85-4ce2-aa51-c974373ff822",
+    "platform": "사람인",
+    "deadline": "~ 10/13(화)",
+    "dday": "~ 10/13(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115205&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "title": "전산팀 수시채용",
+    "company": "안국약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115205&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "platform": "사람인",
+    "deadline": "~ 10/23(금)",
+    "dday": "~ 10/23(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55145189&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "title": "안국약품(주) 준법감사팀 수시채용",
+    "company": "안국약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55145189&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55124551&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "title": "안국약품(주) 물류팀 (기간제) 수시채용",
+    "company": "안국약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55124551&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=9ab5b9c4-a738-4952-9a54-4777bba6c0c3",
+    "platform": "사람인",
+    "deadline": "~ 10/28(수)",
+    "dday": "~ 10/28(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189209&location=ts&searchword=%EC%98%81%EC%A7%84%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=24c00094-a3dd-4d25-9fa8-916aeaf5739f",
+    "title": "영진약품남양공장 생산직 계약직 채용",
+    "company": "영진약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189209&location=ts&searchword=%EC%98%81%EC%A7%84%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=24c00094-a3dd-4d25-9fa8-916aeaf5739f",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070736",
+    "title": "생산본부 10월 수시채용",
+    "company": "동아제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070736",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070843",
+    "title": "생산본부 10월 수시채용 - 천안공장",
+    "company": "동아제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070843",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070858",
+    "title": "생산본부 10월 수시채용 - 당진공장",
+    "company": "동아제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070858",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070781",
+    "title": "생산본부 10월 수시채용 - 이천공장(제조)",
+    "company": "동아제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070781",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070815",
+    "title": "생산본부 10월 수시채용 - 이천공장(설비관리)",
+    "company": "동아제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070815",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55186398&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=7e57ff88-db4e-4c4f-8b90-e22bffe792b7",
+    "title": "[대웅바이오] 마케팅본부 학술팀 약사 채용",
+    "company": "대웅바이오(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55186398&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=7e57ff88-db4e-4c4f-8b90-e22bffe792b7",
+    "platform": "사람인",
+    "deadline": "~ 10/31(토)",
+    "dday": "~ 10/31(토)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088926&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=7e57ff88-db4e-4c4f-8b90-e22bffe792b7",
+    "title": "[대웅바이오] 개발팀 신제품개발 경력채용",
+    "company": "대웅바이오(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088926&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=7e57ff88-db4e-4c4f-8b90-e22bffe792b7",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55195749&location=ts&searchword=%EB%A9%94%EB%94%94%ED%86%A1%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=54f9e5cf-61ce-4bad-ad76-d99f51c494bb",
+    "title": "전략기획 신입사원 채용",
+    "company": "(주)메디톡스",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55195749&location=ts&searchword=%EB%A9%94%EB%94%94%ED%86%A1%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=54f9e5cf-61ce-4bad-ad76-d99f51c494bb",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55191310&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[기술1팀] 사내 공무 기술직 경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55191310&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162431&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[품질관리2팀] 동물시험 및 세포시험 신입/경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162431&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087981&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[품질관리3팀 생산기능사원]제조환경검사 계약직(정규전환 가능)",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087981&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050713&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[원액공정팀] 원액제조 신입/경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050713&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050955&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[품질보증3팀] QA oversight 신입",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050955&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991334&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[재무기획팀] FP&A (Financial Planning & Analysis) Analyst",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991334&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991421&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[완제공정팀] 완제 공정 작업원 신입/경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991421&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002522&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[법무팀] Global Compliance 경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002522&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991308&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[의학팀] Medical Science Liaison 경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991308&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54972933&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[화장품마케팅팀] 웰라쥬 브랜드 마케터 경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54972933&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920714&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[약효독성연구팀] 전임수의사 신입/경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920714&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54877694&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[영남지점] 국내영업 신입/경력 (대구·울산 지역)",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54877694&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810287&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[Europe&CIS사업팀] Europe&CIS 담당 경력 (Senior)",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810287&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727807&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[품질관리3팀] 미생물시험 및 제조환경검사 신입/경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727807&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727509&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[제품관리팀 생산기능사원] 이물검사 및 포장 (정규전환가능)",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727509&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699043&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "title": "[전략기획실] R&D Project Coordinator 경력",
+    "company": "휴젤(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699043&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=202b4eda-19f4-402d-9fdb-ece2859d60a5",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192221&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "title": "[한림제약] 생산부(계약직) 신입/경력직 수시채용",
+    "company": "한림제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192221&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192139&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "title": "[한림제약] 생산관리부 신입/경력직 수시채용",
+    "company": "한림제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192139&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192255&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "title": "[한림제약] 품질관리부 신입/경력직 수시채용",
+    "company": "한림제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192255&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192042&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "title": "[한림제약] 신제품연구소 경력직 수시채용",
+    "company": "한림제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192042&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941341&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "title": "[한림제약] 구내식당 조리원 신입/경력직 수시 채용",
+    "company": "한림제약㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941341&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=95eeb1fd-a799-4fb5-84e2-2b4e9df1227f",
+    "platform": "사람인",
+    "deadline": "오늘마감",
+    "dday": "오늘마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001758&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=399eb2b0-2854-45ea-bc0c-f3c850ea8417",
+    "title": "신풍제약(주) 기술경영팀 채용 (정규직)",
+    "company": "신풍제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001758&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=399eb2b0-2854-45ea-bc0c-f3c850ea8417",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001880&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=399eb2b0-2854-45ea-bc0c-f3c850ea8417",
+    "title": "[신풍제약] 생산본부 기술경영팀 경력 채용(오송)",
+    "company": "신풍제약(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001880&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=399eb2b0-2854-45ea-bc0c-f3c850ea8417",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041804&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "일양약품- 강원병원팀 ETC 신입 & 경력 영업 사원 모집",
+    "company": "일양약품(주)강원지점",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041804&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "~ 10/15(목)",
+    "dday": "~ 10/15(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187317&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[2026년일양약품3분기채용]임상2팀 채용",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187317&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55170003&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[2026년일양약품3분기 채용] 중앙연구소 합성연구1팀",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55170003&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158557&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[2026년일양약품3분기 채용] 용인공장 공장지원팀(TMS)",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158557&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "진행예정",
+    "dday": "진행예정",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115029&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[일양약품3분기 채용] 중국사업 마케팅, 사업관리 담당자 채용",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115029&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "~ 10/14(수)",
+    "dday": "~ 10/14(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941283&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[일양약품채용] 2026년 하반기 ETC 영업사원 채용",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941283&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766902&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "일양약품-일반의약품 약국영업 경력직 영업사원 채용(부산)",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766902&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050395&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "title": "[일양약품채용] 2026년 하반기 ETC 영업사원 채용",
+    "company": "일양약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050395&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=999801ed-4751-4b38-bcd4-647fac0db399",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192341&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "title": "[현대약품] 화장품 글로벌영업 채용",
+    "company": "현대약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192341&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192372&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "title": "[현대약품] ETC 마케팅 PM 채용",
+    "company": "현대약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192372&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192273&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "title": "[현대약품] 재무조정팀 채용",
+    "company": "현대약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192273&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=c5700106-2d0e-4096-bf6a-e3cfac8c2738",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116173&location=ts&searchword=%EB%B6%80%EA%B4%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=fa2b1a7e-4616-434c-9155-0b774ba373c7",
+    "title": "[부광약품] CNS 마케팅 PM 경력 채용",
+    "company": "부광약품㈜",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116173&location=ts&searchword=%EB%B6%80%EA%B4%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=fa2b1a7e-4616-434c-9155-0b774ba373c7",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50074081",
+    "title": "AI Research Engineer 구성원 영입",
+    "company": "SK바이오팜㈜",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50074081",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50070289",
+    "title": "[삼일제약] 안과마케팅 담당 모집 (서울 본사)",
+    "company": "삼일제약㈜",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50070289",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55159266&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "title": "[삼일제약] 안과 영업 담당 모집 (서울수도권 지역)",
+    "company": "삼일제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55159266&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55146076&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "title": "[삼일제약] 안과마케팅 담당 모집 (서울 본사)",
+    "company": "삼일제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55146076&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943674&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "title": "[삼일제약] ETC영업 클리닉 담당 모집 (대구지역 MR)",
+    "company": "삼일제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943674&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=1e37cb85-02dd-48c3-8cb0-68200af4b237",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50066857",
+    "title": "[휴온스바이오파마] 기술지원부 모집",
+    "company": "㈜휴온스바이오파마",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50066857",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178727&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스바이오파마] 원액팀 모집",
+    "company": "(주)휴온스바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178727&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/02(월)",
+    "dday": "~ 11/02(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142218&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스바이오파마] 기술지원부 모집",
+    "company": "(주)휴온스바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142218&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55104488&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스바이오파마] 공장 품질보증부(QA) 모집",
+    "company": "(주)휴온스바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55104488&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/02(월)",
+    "dday": "~ 11/02(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883242&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스바이오파마] 국내인허가팀 모집",
+    "company": "(주)휴온스바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883242&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187522&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스그룹/부산]휴온스메디텍 생산지원팀(공무) 모집",
+    "company": "(주)휴온스메디텍",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187522&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/01(일)",
+    "dday": "~ 11/01(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187187&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스그룹]휴온스메디텍 의료기기 영업직(비뇨기과) 모집",
+    "company": "(주)휴온스메디텍",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187187&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/01(일)",
+    "dday": "~ 11/01(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187322&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스그룹]휴온스메디텍 의약품마케팅팀 모집",
+    "company": "(주)휴온스메디텍",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55187322&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/01(일)",
+    "dday": "~ 11/01(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070730&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "title": "[휴온스그룹]휴온스메디텍 각 부문 신입 및 경력직 모집",
+    "company": "(주)휴온스메디텍",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070730&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=f3147283-f82b-41a7-878c-8e77b798d24b",
+    "platform": "사람인",
+    "deadline": "~ 11/17(화)",
+    "dday": "~ 11/17(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%ED%8C%8C%EB%A7%88%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=079d0d33-95df-47b6-bd4c-adf9320942fb",
+    "title": "2026년파마리서치신입/경력 수시채용",
+    "company": "(주)파마리서치",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%ED%8C%8C%EB%A7%88%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=079d0d33-95df-47b6-bd4c-adf9320942fb",
+    "platform": "사람인",
+    "deadline": "~ 05/12(수)",
+    "dday": "~ 05/12(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50073059",
+    "title": "㈜셀트리온제약 파트타이머 채용",
+    "company": "㈜셀트리온제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50073059",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149603&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "title": "(주)셀트리온제약포장 및 생산 보조 파트타이머 모집(오창)",
+    "company": "(주)셀트리온제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149603&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "platform": "사람인",
+    "deadline": "~ 10/29(목)",
+    "dday": "~ 10/29(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149562&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "title": "(주)셀트리온제약자재관리 보조 파트타이머 모집(오창)",
+    "company": "(주)셀트리온제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149562&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "platform": "사람인",
+    "deadline": "~ 10/29(목)",
+    "dday": "~ 10/29(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766978&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "title": "(주)셀트리온제약파트타이머 모집(오창, 교대근무 가능자)",
+    "company": "(주)셀트리온제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766978&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "platform": "사람인",
+    "deadline": "~ 10/17(토)",
+    "dday": "~ 10/17(토)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55112954&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "title": "㈜셀트리온제약신입/경력 수시채용",
+    "company": "(주)셀트리온제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55112954&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=e71f0b1c-4322-4f0e-9f10-7ecd6a6bc00b",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55128233&location=ts&searchword=%EC%A0%9C%EC%9D%BC%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=a42155d5-19d6-41f9-9e00-fc34e14dda1c",
+    "title": "[제일약품그룹] 부문별 인재모집",
+    "company": "제일약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55128233&location=ts&searchword=%EC%A0%9C%EC%9D%BC%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=a42155d5-19d6-41f9-9e00-fc34e14dda1c",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55097583&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "(주)보령바이오파마 동물실험실 전임수의사 모집",
+    "company": "(주)보령바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55097583&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129297&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "제약회사 영업관리 계약직 채용 공고",
+    "company": "(주)보령바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129297&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55163112&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령바이오파마] 생산본부 QA팀",
+    "company": "(주)보령바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55163112&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/07(수)",
+    "dday": "~ 10/07(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135083&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령바이오파마] 생산본부 QC1팀 (육아휴직 대체자)",
+    "company": "(주)보령바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135083&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "내일마감",
+    "dday": "내일마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55076035&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "PV팀/재무팀/품질관리 약사/영업관리(계약직)/제제연구 채용",
+    "company": "(주)보령바이오파마",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55076035&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/09(금)",
+    "dday": "~ 10/09(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55177359&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령] MS(Medical Science) PM (경력)",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55177359&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157853&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령] 포트폴리오개발 팀장",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157853&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157961&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령] 글로벌 RA 담당자 (경력)",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157961&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55074262&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령] MO(Medical Operation) PM (경력)",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55074262&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116263&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[보령] MO(Medical Operation) CRA (신입/경력)",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116263&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55172457&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[(주)보령, (구보령제약)] 안산공장 시설팀 정규직 채용",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55172457&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/16(금)",
+    "dday": "~ 10/16(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121797&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[제약] (주)보령예산캠퍼스 주사제팀 채용(계약직)",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121797&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/23(금)",
+    "dday": "~ 10/23(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55094250&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[제약] (주)보령예산캠퍼스 생산기술팀 경력직 채용",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55094250&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/25(일)",
+    "dday": "~ 10/25(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121717&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "title": "[제약] (주)보령예산캠퍼스 주사제팀 채용",
+    "company": "(주)보령",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121717&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=b27f9e84-e8b8-4541-a2f4-fa168b457281",
+    "platform": "사람인",
+    "deadline": "~ 10/23(금)",
+    "dday": "~ 10/23(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50062866",
+    "title": "[대웅제약] ETC 로컬MR 경력직(전남 광주)",
+    "company": "㈜대웅제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50062866",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50067126",
+    "title": "[대웅제약] 오송QA팀 계약직(1년)",
+    "company": "㈜대웅제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50067126",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50075042",
+    "title": "[대웅제약] 신약 분석연구 경력직",
+    "company": "㈜대웅제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50075042",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50064395",
+    "title": "[대웅제약] CH약국 MR 경력직(서울)",
+    "company": "㈜대웅제약",
+    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50064395",
+    "platform": "잡코리아",
+    "deadline": "",
+    "dday": "-",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178870&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] 내분비임상팀 팀원",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178870&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/22(목)",
+    "dday": "~ 10/22(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142366&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] Market access팀 팀원",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142366&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142202&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] CRM 서비스 운영자 경력직 채용",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142202&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55090248&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[웰다] Data Science 담당 경력직 채용",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55090248&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142524&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] CH개발기획팀 건강기능식품 개발기획 팀원",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142524&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102271&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] 바이오시밀러 사업개발센터 전략팀 경력직",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102271&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/13(화)",
+    "dday": "~ 10/13(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055186&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅그룹] 다나아데이터 서비스 기획자 채용",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055186&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/31(토)",
+    "dday": "~ 10/31(토)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049678&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅] 재무기획실 회계2팀 기획(손익,원가) 담당자",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049678&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/16(금)",
+    "dday": "~ 10/16(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135956&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅/제약] 인사팀원 (GHR)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135956&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135841&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅/제약] 인사팀원 (평가/보상 담당자)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135841&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136076&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅/제약] HRIS Sr. Manager (Workday 운영)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136076&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178926&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC마케팅 피부파트PM 경력직",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178926&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/15(목)",
+    "dday": "~ 10/15(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189384&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC 로컬MR 경력직 (강원도 속초)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189384&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 11/01(일)",
+    "dday": "~ 11/01(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179013&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC 로컬MR 경력직 전주",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179013&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/15(목)",
+    "dday": "~ 10/15(목)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165282&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 소화기허가팀 경력직 팀원",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165282&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/21(수)",
+    "dday": "~ 10/21(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136157&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약/그룹사] 인사팀장",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136157&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134269&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC 로컬MR 경력직(전남 광주)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134269&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111690&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 임팩타민 BM 경력직",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111690&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 11/22(일)",
+    "dday": "~ 11/22(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102497&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 오송루피어생산팀 주사제 충전&포장업무 계약직(1년)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102497&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/26(월)",
+    "dday": "~ 10/26(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55085771&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 시판연구팀장 채용",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55085771&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55093509&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 소화기임상팀 경력직 팀원(CPL)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55093509&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/16(금)",
+    "dday": "~ 10/16(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037960&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC 로컬MR 경력직(서울북부)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037960&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/30(금)",
+    "dday": "~ 10/30(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037215&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC 로컬MR 경력직 (서울 남서부)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037215&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/07(수)",
+    "dday": "~ 10/07(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037818&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] ETC로컬 MR 경력직 (강남/서초)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037818&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/12(월)",
+    "dday": "~ 10/12(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55151225&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 신약 분석연구 경력직",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55151225&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/20(화)",
+    "dday": "~ 10/20(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135907&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] CH약국 MR 경력직(서울)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135907&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/26(월)",
+    "dday": "~ 10/26(월)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142597&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 오송QA팀 계약직 (1년)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142597&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/13(화)",
+    "dday": "~ 10/13(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102035&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] CH마케팅 세일즈 어드민(AMD) 계약직 채용",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102035&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102114&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 오송 물류팀(출하/수출 및 물류기획) 계약직 (1년)",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102114&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "오늘마감",
+    "dday": "오늘마감",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077180&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "title": "[대웅제약] 안전보건팀 경력직",
+    "company": "(주)대웅제약",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077180&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=11e0be27-2160-4f77-b95b-588fd65009f3",
+    "platform": "사람인",
+    "deadline": "~ 10/09(금)",
+    "dday": "~ 10/09(금)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113265&location=ts&searchword=%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=e2f66a7b-967d-482c-bf5c-5ae05aa02d1a",
+    "title": "2026년 하반기 한미그룹 공개채용",
+    "company": "한미약품(주)",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113265&location=ts&searchword=%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=e2f66a7b-967d-482c-bf5c-5ae05aa02d1a",
+    "platform": "사람인",
+    "deadline": "~ 10/18(일)",
+    "dday": "~ 10/18(일)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54982038&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "(주)종근당천안공장 의약품생산 직원채용",
+    "company": "(주)종근당천안공장",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54982038&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "채용시",
+    "dday": "채용시",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179871&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "(주)종근당생산본부 계약직 수시채용(엔지니어링)",
+    "company": "(주)종근당천안공장",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179871&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "~ 10/31(토)",
+    "dday": "~ 10/31(토)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165919&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "(주)종근당생산본부 계약직 수시채용(QA)",
+    "company": "(주)종근당천안공장",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165919&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "~ 10/13(화)",
+    "dday": "~ 10/13(화)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55119705&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "(주)종근당생산본부 계약직 수시채용(공정기술)",
+    "company": "(주)종근당천안공장",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55119705&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "~ 10/07(수)",
+    "dday": "~ 10/07(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54864086&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "(주)종근당생산본부 계약직 수시채용(생산)",
+    "company": "(주)종근당천안공장",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54864086&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "~ 10/07(수)",
+    "dday": "~ 10/07(수)",
+    "date": "2026.10.04"
+  },
+  {
+    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091812&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "title": "종근당및 자회사 수시채용",
+    "company": "(주)종근당",
+    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091812&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=783d3006-c497-4658-afdd-3c2086a39d9d",
+    "platform": "사람인",
+    "deadline": "~ 10/11(일)",
+    "dday": "~ 10/11(일)",
+    "date": "2026.10.04"
+  },
+  {
     "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49965448",
     "title": "상시 인재pool 등록(제제연구(경구제))",
     "company": "환인제약",
@@ -3588,1415 +4998,5 @@
     "deadline": "~ 10/11(일)",
     "dday": "~ 10/11(일)",
     "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54974036&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[(주)보령, (구보령제약)] 안산공장 시설기획팀 정규직 채용",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54974036&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157961&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[보령] 글로벌 RA 담당자 (경력)",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157961&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116263&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[보령] MO(Medical Operation) CRA (신입/경력)",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116263&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55172457&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[(주)보령, (구보령제약)] 안산공장 시설팀 정규직 채용",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55172457&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/16(금)",
-    "dday": "~ 10/16(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991060&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[(주)보령, (구보령제약)] 안산공장 공정연구팀/분석팀 정규직 채용",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991060&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121797&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[제약] (주)보령예산캠퍼스 주사제팀 채용(계약직)",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121797&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/23(금)",
-    "dday": "~ 10/23(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55094250&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[제약] (주)보령예산캠퍼스 생산기술팀 경력직 채용",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55094250&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/25(일)",
-    "dday": "~ 10/25(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121717&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "title": "[제약] (주)보령예산캠퍼스 주사제팀 채용",
-    "company": "(주)보령",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121717&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=c3107f30-358b-494b-9c0f-61c5b9128c75",
-    "platform": "사람인",
-    "deadline": "~ 10/23(금)",
-    "dday": "~ 10/23(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50045217",
-    "title": "[대웅제약] 임팩타민 BM 경력직",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50045217",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50021140",
-    "title": "[대웅제약] 안전보건팀 경력직",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50021140",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49914915",
-    "title": "[대웅제약] ETC로컬 MR 경력직 (마산/함양)",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/49914915",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/49991484",
-    "title": "[대웅제약] ETC 로컬MR 경력직 (서울 북부)",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/49991484",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50010397",
-    "title": "[대웅제약] ETC 로컬 MR 경력직(서울 서부)",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50010397",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50083495",
-    "title": "[대웅제약] 소화기허가팀 경력직 팀원",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50083495",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50010476",
-    "title": "[대웅제약] CH약국 MR 경력직(인천)",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50010476",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50010494",
-    "title": "[대웅제약] CH약국 MR 경력직(인천,김포시)",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50010494",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50048682",
-    "title": "[대웅제약/그룹사] 인사팀장",
-    "company": "㈜대웅제약",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50048682",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142202&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] CRM 서비스 운영자 경력직 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142202&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135956&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] GHR 운영",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135956&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142366&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] Market access팀 팀원",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142366&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55090248&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[웰다] Data Science 담당 경력직 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55090248&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55060702&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] 메디컬팀 학술담당 팀원 계약직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55060702&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178870&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] 내분비임상팀 팀원",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178870&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/22(목)",
-    "dday": "~ 10/22(목)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102271&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] 바이오시밀러 사업개발센터 전략팀 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102271&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/13(화)",
-    "dday": "~ 10/13(화)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142524&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] CH개발기획팀 건강기능식품 개발기획 팀원",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142524&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136076&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] HRIS Sr.Manager (Workday 운영)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136076&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55060558&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] 메디컬팀 학술파트 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55060558&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055186&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅그룹] 다나아데이터 서비스 기획자 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055186&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/31(토)",
-    "dday": "~ 10/31(토)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049678&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] 재무기획실 회계2팀 기획(손익,원가) 담당자",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049678&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/16(금)",
-    "dday": "~ 10/16(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54919880&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅] IP팀 경력직 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54919880&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135841&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅/제약] 인사쉐어드2팀 평가/보상담당자",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135841&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134269&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬MR 경력직(전남 광주)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55134269&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136157&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약/그룹사] 인사팀장",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136157&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111690&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 임팩타민 BM 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111690&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 11/22(일)",
-    "dday": "~ 11/22(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55093509&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 소화기임상팀 경력직 팀원(CPL)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55093509&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102497&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 오송루피어생산팀 주사제 충전&포장업무 계약직(1년)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102497&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/26(월)",
-    "dday": "~ 10/26(월)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55085771&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 시판연구팀장 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55085771&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55063946&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬MR 경력직(남양주/의정부)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55063946&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070797&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약/그룹사] 영업관리 파트장",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070797&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037818&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC로컬 MR 경력직 (강남/서초)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037818&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037960&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬MR 경력직(서울북부)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037960&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037215&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬MR 경력직 (서울 남서부)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037215&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/07(수)",
-    "dday": "~ 10/07(수)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54914884&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬 MR 경력직(서울 서부)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54914884&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179013&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC 로컬MR 경력직 전주",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55179013&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/15(목)",
-    "dday": "~ 10/15(목)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178926&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC마케팅 피부파트PM 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178926&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/15(목)",
-    "dday": "~ 10/15(목)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165282&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 소화기허가팀 경력직 팀원",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165282&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/21(수)",
-    "dday": "~ 10/21(수)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55151225&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 신약 분석연구 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55151225&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/20(화)",
-    "dday": "~ 10/20(화)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142597&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 오송QA팀 계약직 (1년)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142597&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/13(화)",
-    "dday": "~ 10/13(화)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135907&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] CH약국 MR 경력직(서울)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55135907&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/26(월)",
-    "dday": "~ 10/26(월)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102035&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] CH마케팅 세일즈 어드민(AMD) 계약직 채용",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102035&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102114&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 오송 물류팀(출하/수출 및 물류기획) 계약직 (1년)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102114&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/04(일)",
-    "dday": "~ 10/04(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077180&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] 안전보건팀 경력직",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077180&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "~ 10/09(금)",
-    "dday": "~ 10/09(금)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54963751&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] CH약국 MR 경력직(인천,김포시)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54963751&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54928167&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] ETC로컬 MR 경력직 (마산/함양)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54928167&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54907968&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "title": "[대웅제약] CH약국 MR 경력직(인천)",
-    "company": "(주)대웅제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54907968&location=ts&searchword=%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=0d7918f4-080d-4070-ab82-d1cdcf024826",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113265&location=ts&searchword=%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=ee2d15b5-9b48-4879-a576-4a5a061d1d8d",
-    "title": "2026년 하반기 한미그룹 공개채용",
-    "company": "한미약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113265&location=ts&searchword=%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=ee2d15b5-9b48-4879-a576-4a5a061d1d8d",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50084114",
-    "title": "건강기능식품 제품개발 연구원 (경력)",
-    "company": "종근당건강㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50084114",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50032169",
-    "title": "종근당 및 자회사 수시채용",
-    "company": "종근당",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50032169",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54982038&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "title": "(주)종근당천안공장 의약품생산 직원채용",
-    "company": "(주)종근당천안공장",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54982038&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165919&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "title": "(주)종근당생산본부 계약직 수시채용(QA)",
-    "company": "(주)종근당천안공장",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165919&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "platform": "사람인",
-    "deadline": "~ 10/13(화)",
-    "dday": "~ 10/13(화)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55119705&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "title": "(주)종근당생산본부 계약직 수시채용(공정기술)",
-    "company": "(주)종근당천안공장",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55119705&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "platform": "사람인",
-    "deadline": "~ 10/07(수)",
-    "dday": "~ 10/07(수)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54864086&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "title": "(주)종근당생산본부 계약직 수시채용(생산)",
-    "company": "(주)종근당천안공장",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54864086&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "platform": "사람인",
-    "deadline": "~ 10/07(수)",
-    "dday": "~ 10/07(수)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091812&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "title": "종근당및 자회사 수시채용",
-    "company": "(주)종근당",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091812&location=ts&searchword=%EC%A2%85%EA%B7%BC%EB%8B%B9&searchType=search&paid_fl=n&search_uuid=72ab41d1-0f55-4200-ae33-b10227bdc671",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.10.01"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55101356&location=ts&searchword=%ED%95%98%EB%82%98%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=4bcf7c05-9af9-47f8-9b25-861096f6ab55",
-    "title": "하나제약(주) 서울사무소 전산팀 계약직 채용",
-    "company": "하나제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55101356&location=ts&searchword=%ED%95%98%EB%82%98%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=4bcf7c05-9af9-47f8-9b25-861096f6ab55",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132547&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "title": "동성제약아산공장 공무(공조,냉동,보일러,기계설비관리)직원채용",
-    "company": "동성제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132547&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091713&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "title": "동성제약아산공장 의약생산부 채용(특수제제)",
-    "company": "동성제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091713&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091694&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "title": "동성제약아산공장 의약생산부 채용(혼합)",
-    "company": "동성제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55091694&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54963659&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "title": "동성제약아산공장 품질관리부(원자재) 직원 채용",
-    "company": "동성제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54963659&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54964315&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "title": "동성제약아산공장 공무부(정수/환경) 채용",
-    "company": "동성제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54964315&location=ts&searchword=%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=a2bd7e41-8820-48be-aa91-d1150349cb17",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023835&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "title": "코오롱제약신약개발부문-AI/CADD(분자모델링, AI) 팀장 채용",
-    "company": "코오롱제약(주) 신약개발부문",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55023835&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934816&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "title": "코오롱제약신약개발부문-약물평가(분자생물,ADME,PK)팀장 채용",
-    "company": "코오롱제약(주) 신약개발부문",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934816&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934693&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "title": "코오롱제약신약개발부문 - 의약화학 (Medicinal Chemistry)채용",
-    "company": "코오롱제약(주) 신약개발부문",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934693&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943166&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "title": "코오롱제약신약개발부문 - 인사 구매 업무 팀원채용",
-    "company": "코오롱제약(주) 신약개발부문",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943166&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55109391&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "title": "2026년코오롱제약지원팀(원가) 채용",
-    "company": "코오롱제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55109391&location=ts&searchword=%EC%BD%94%EC%98%A4%EB%A1%B1%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=b23c5c45-f263-476c-9c03-4065518a7089",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50076885",
-    "title": "조아제약㈜ 강원영업소 영업사원 채용",
-    "company": "조아제약㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50076885",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157857&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "title": "조아제약(주) 제주도 지역 영업사원 채용",
-    "company": "조아제약㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157857&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013741&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "title": "조아제약함안공장 품질보증팀원 채용",
-    "company": "조아제약㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013741&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55008191&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "title": "조아제약(주) 전주영업소 채용 공고",
-    "company": "조아제약㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55008191&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54940258&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "title": "조아제약(주) 강원영업소 영업사원 채용",
-    "company": "조아제약㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54940258&location=ts&searchword=%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=fd458492-7de6-4606-8719-bd42fb962828",
-    "platform": "사람인",
-    "deadline": "~ 10/04(일)",
-    "dday": "~ 10/04(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50077777",
-    "title": "한국유나이티드제약(주) 마케팅팀 신입사원 모집",
-    "company": "한국유나이티드제약㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50077777",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158889&location=ts&searchword=%ED%95%9C%EA%B5%AD%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=9a59e37b-4b07-4308-9f47-2bffc0755a18",
-    "title": "한국유나이티드제약(주) 마케팅팀 신입사원 모집",
-    "company": "한국유나이티드제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158889&location=ts&searchword=%ED%95%9C%EA%B5%AD%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=9a59e37b-4b07-4308-9f47-2bffc0755a18",
-    "platform": "사람인",
-    "deadline": "~ 10/13(화)",
-    "dday": "~ 10/13(화)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50078188",
-    "title": "안국약품(주) 준법감사팀 수시채용",
-    "company": "안국약품㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50078188",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115205&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "title": "전산팀 수시채용",
-    "company": "안국약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115205&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "platform": "사람인",
-    "deadline": "~ 10/23(금)",
-    "dday": "~ 10/23(금)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55145189&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "title": "안국약품(주) 준법감사팀 수시채용",
-    "company": "안국약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55145189&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "platform": "사람인",
-    "deadline": "~ 10/30(금)",
-    "dday": "~ 10/30(금)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55124551&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "title": "안국약품(주) 물류팀 (기간제) 수시채용",
-    "company": "안국약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55124551&location=ts&searchword=%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=80f651ed-5884-4bd7-b610-780b3409c3bb",
-    "platform": "사람인",
-    "deadline": "~ 10/28(수)",
-    "dday": "~ 10/28(수)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049390&location=ts&searchword=%EC%98%81%EC%A7%84%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=50b9b14f-211e-4730-bb8f-b067b2f658e0",
-    "title": "영진약품남양공장 생산직 계약직 채용",
-    "company": "영진약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049390&location=ts&searchword=%EC%98%81%EC%A7%84%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=50b9b14f-211e-4730-bb8f-b067b2f658e0",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165538&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약/파티온(FATION)] 파티온사업부 온라인MD 경력 채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165538&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55137407&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약]생산본부 10월 수시채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55137407&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072521&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약] 연구소 소재탐색(효능평가) 담당 경력 채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072521&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54911767&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약] 파티온사업부 글로벌 마케터 채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54911767&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54851982&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약] 파티온사업부 올리브영 AMD 채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54851982&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55144641&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "title": "[동아제약] 파티온사업부 아마존MD, 해외영업(미주B2B) 채용",
-    "company": "동아제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55144641&location=ts&searchword=%EB%8F%99%EC%95%84%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=10c46f39-af19-40ac-adb5-f45f7d4b8205",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088926&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=4ca23601-9899-484e-bd1b-fc5d97549ea4",
-    "title": "[대웅바이오] 개발팀 신제품개발 경력채용",
-    "company": "대웅바이오(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088926&location=ts&searchword=%EB%8C%80%EC%9B%85%EB%B0%94%EC%9D%B4%EC%98%A4&searchType=search&paid_fl=n&search_uuid=4ca23601-9899-484e-bd1b-fc5d97549ea4",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162431&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[품질관리2팀] 동물시험 및 세포시험 신입/경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162431&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087981&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[품질관리3팀 생산직] 제조환경검사 계약직 (정규전환 가능)",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087981&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050713&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[원액공정팀] 원액제조 신입/경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050713&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050955&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[품질보증3팀] QA oversight 신입",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050955&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002522&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[법무팀] Global Compliance 경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002522&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991308&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[의학팀] Medical Science Liaison 경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991308&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991421&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[완제공정팀] 완제 공정 작업원 신입/경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991421&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54972933&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[화장품마케팅팀] 웰라쥬 브랜드 마케터 경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54972933&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991334&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[재무기획팀] FP&A (Financial Planning & Analysis) Analyst",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991334&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920714&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[약효독성연구팀] 전임수의사 신입/경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920714&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54877694&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[영남지점] 국내영업 신입/경력 (대구·울산 지역)",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54877694&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810287&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[Europe&CIS사업팀] Europe&CIS 담당 경력 (Senior)",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810287&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727509&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[제품관리팀 생산직] 이물검사 및 포장 계약직(정규전환 가능)",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727509&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727807&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[품질관리3팀] 미생물시험 및 제조환경검사 신입/경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54727807&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699043&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "title": "[전략기획실] R&D Project Coordinator 경력",
-    "company": "휴젤(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699043&location=ts&searchword=%ED%9C%B4%EC%A0%A4&searchType=search&paid_fl=n&search_uuid=f70b94b4-44e8-4733-a6da-a002a06293b9",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941341&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=3a624149-11fc-407a-8e99-9ef3ac93c2f5",
-    "title": "[한림제약] 구내식당 조리원 신입/경력직 수시 채용",
-    "company": "한림제약㈜",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941341&location=ts&searchword=%ED%95%9C%EB%A6%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=3a624149-11fc-407a-8e99-9ef3ac93c2f5",
-    "platform": "사람인",
-    "deadline": "~ 10/04(일)",
-    "dday": "~ 10/04(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115616&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "title": "신풍제약시험보조(공정관리) 계약직의 채용 안내",
-    "company": "신풍제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115616&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001758&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "title": "신풍제약(주) 기술경영팀 채용 (정규직)",
-    "company": "신풍제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001758&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001880&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "title": "[신풍제약] 생산본부 기술경영팀 경력 채용(오송)",
-    "company": "신풍제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001880&location=ts&searchword=%EC%8B%A0%ED%92%8D%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=938d70a9-0d65-4c30-afc4-16f7fe2129c2",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041804&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "일양약품- 강원병원팀 ETC 신입 & 경력 영업 사원 모집",
-    "company": "일양약품(주)강원지점",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041804&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "~ 10/15(목)",
-    "dday": "~ 10/15(목)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115029&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "[2026년일양약품3분기채용]길림일양사업본부 채용",
-    "company": "일양약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115029&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158557&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "[2026년일양약품3분기 채용] 용인공장 공장지원팀(TMS)",
-    "company": "일양약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55158557&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "진행예정",
-    "dday": "진행예정",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941283&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "[일양약품채용] 2026년 하반기 ETC 영업사원 채용",
-    "company": "일양약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54941283&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766902&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "일양약품-일반의약품 약국영업 경력직 영업사원 채용(부산)",
-    "company": "일양약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766902&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "채용시",
-    "dday": "채용시",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050395&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "title": "[일양약품채용] 2026년 하반기 ETC 영업사원 채용",
-    "company": "일양약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050395&location=ts&searchword=%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=360de7be-5d5d-48ed-ae00-a119bb80c09f",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54979008&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=fc34d21d-e39d-432d-b440-632dc13de372",
-    "title": "현대약품각 부문별 채용",
-    "company": "현대약품(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54979008&location=ts&searchword=%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88&searchType=search&paid_fl=n&search_uuid=fc34d21d-e39d-432d-b440-632dc13de372",
-    "platform": "사람인",
-    "deadline": "오늘마감",
-    "dday": "오늘마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50077060",
-    "title": "[삼일제약] ETC영업 클리닉 담당 모집 (대구지역 MR)",
-    "company": "삼일제약㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50077060",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55159266&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "title": "[삼일제약] 안과영업 클리닉 담당 모집 (서울수도권 지역)",
-    "company": "삼일제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55159266&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943674&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "title": "[삼일제약] ETC영업 클리닉 담당 모집 (대구지역 MR)",
-    "company": "삼일제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943674&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55146076&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "title": "[삼일제약] 안과마케팅 담당 모집 (서울 본사)",
-    "company": "삼일제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55146076&location=ts&searchword=%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ad8eff7f-fdea-4b49-85ae-b5ab9ae52b6a",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142218&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스바이오파마] 기술지원부 모집",
-    "company": "(주)휴온스바이오파마",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55142218&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55104488&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스바이오파마] 공장 품질보증부(QA) 모집",
-    "company": "(주)휴온스바이오파마",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55104488&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 11/02(월)",
-    "dday": "~ 11/02(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883242&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스바이오파마] 국내인허가팀 모집",
-    "company": "(주)휴온스바이오파마",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883242&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/12(월)",
-    "dday": "~ 10/12(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070730&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스그룹]휴온스메디텍 각 부문 신입 및 경력직 모집",
-    "company": "(주)휴온스메디텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070730&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070682&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스그룹]휴온스메디텍 의약품마케팅팀 모집",
-    "company": "(주)휴온스메디텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070682&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070711&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스그룹]휴온스메디텍 의료기기 영업직(비뇨기과) 모집",
-    "company": "(주)휴온스메디텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070711&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070686&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "title": "[휴온스그룹]휴온스메디텍 의약품RA팀 모집",
-    "company": "(주)휴온스메디텍",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070686&location=ts&searchword=%ED%9C%B4%EC%98%A8%EC%8A%A4&searchType=search&paid_fl=n&search_uuid=b8402de3-a70b-4431-abcb-af080218717c",
-    "platform": "사람인",
-    "deadline": "~ 10/18(일)",
-    "dday": "~ 10/18(일)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087870&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "title": "[동국제약] 신입/경력 채용(생산본부, 연구소) ~ 10/1",
-    "company": "동국제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55087870&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55086999&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "title": "[동국제약] 헬스앤뷰티 신입/경력 채용(마케팅, 영업, SCM, 상품기획, MD 등) ~ 10/1",
-    "company": "동국제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55086999&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088847&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "title": "[동국제약] 신입/경력 채용(Global/관리/마케팅/영업/디자인/개발 등 모집) ~ 10/1",
-    "company": "동국제약(주)",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55088847&location=ts&searchword=%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=ce55c53b-fe91-4136-bed5-496b1e852ba3",
-    "platform": "사람인",
-    "deadline": "내일마감",
-    "dday": "내일마감",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%ED%8C%8C%EB%A7%88%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=06893b99-bb4b-49b3-b749-d0b865c0c3ca",
-    "title": "2026년파마리서치신입/경력 수시채용",
-    "company": "(주)파마리서치",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%ED%8C%8C%EB%A7%88%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=06893b99-bb4b-49b3-b749-d0b865c0c3ca",
-    "platform": "사람인",
-    "deadline": "~ 05/12(수)",
-    "dday": "~ 05/12(수)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149562&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "title": "(주)셀트리온제약자재관리 보조 파트타이머 모집(오창)",
-    "company": "(주)셀트리온제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149562&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "platform": "사람인",
-    "deadline": "~ 10/29(목)",
-    "dday": "~ 10/29(목)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149603&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "title": "(주)셀트리온제약포장 및 생산 보조 파트타이머 모집(오창)",
-    "company": "(주)셀트리온제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55149603&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "platform": "사람인",
-    "deadline": "~ 10/29(목)",
-    "dday": "~ 10/29(목)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766978&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "title": "(주)셀트리온제약파트타이머 모집(오창, 교대근무 가능자)",
-    "company": "(주)셀트리온제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766978&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "platform": "사람인",
-    "deadline": "~ 10/17(토)",
-    "dday": "~ 10/17(토)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55112954&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "title": "㈜셀트리온제약신입/경력 수시채용",
-    "company": "(주)셀트리온제약",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55112954&location=ts&searchword=%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%A0%9C%EC%95%BD&searchType=search&paid_fl=n&search_uuid=adc46c48-0d4b-400d-8f03-453f1467ee95",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "jobkorea_https://www.jobkorea.co.kr/Recruit/GI_Read/50075011",
-    "title": "한독바이오테크㈜ 영업부 관리 및 지원업무 정규직 인재 채용",
-    "company": "한독바이오테크㈜",
-    "link": "https://www.jobkorea.co.krhttps://www.jobkorea.co.kr/Recruit/GI_Read/50075011",
-    "platform": "잡코리아",
-    "deadline": "",
-    "dday": "-",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55097583&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=ccabda3b-0648-467b-bf6a-c45728780b5a",
-    "title": "(주)보령바이오파마 동물실험실 전임수의사 모집",
-    "company": "(주)보령바이오파마",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55097583&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=ccabda3b-0648-467b-bf6a-c45728780b5a",
-    "platform": "사람인",
-    "deadline": "~ 10/05(월)",
-    "dday": "~ 10/05(월)",
-    "date": "2026.09.30"
-  },
-  {
-    "id": "saramin_https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129297&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=ccabda3b-0648-467b-bf6a-c45728780b5a",
-    "title": "제약회사 영업관리 계약직 채용 공고",
-    "company": "(주)보령바이오파마",
-    "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55129297&location=ts&searchword=%EB%B3%B4%EB%A0%B9&searchType=search&paid_fl=n&search_uuid=ccabda3b-0648-467b-bf6a-c45728780b5a",
-    "platform": "사람인",
-    "deadline": "~ 10/11(일)",
-    "dday": "~ 10/11(일)",
-    "date": "2026.09.30"
   }
 ]
